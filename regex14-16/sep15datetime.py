@@ -64,3 +64,6 @@ payday = start_date + timedelta(days=24)
 payday_conv = datetime.strftime(payday,'%d %B, %Y')
 
 print(f"Hello Friedrich, your rent of 300 € is due on {payday_conv}.")
+
+
+
