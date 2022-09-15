@@ -33,7 +33,7 @@ print(f"Time has passed: {dif}")
 
 """
 #countdown  
-"""
+
 
 import time
 
@@ -51,4 +51,3 @@ print("Countdown ends. \n" #print all the needed results
         f"Begin time: {start}\n"
         f"End time: {time.ctime()}\n"
         f"Countdown int: {inp}")
-"""
